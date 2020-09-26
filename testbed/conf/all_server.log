@@ -1,0 +1,119 @@
+F:\Users\HP\Anaconda3\envs\pytorch2\python.exe E:/DC-DRL/testbed/client.py
+receive info
+receive info
+receive datareceive data
+
+receive info
+receive info
+receive data
+receive data
+receive inforeceive info
+
+receive data
+receive data
+res_info: {'res_length': 112}
+res: {'video_path: ': 'recv/videos/Batman_vs_Superman_Official_Teaser_Trailer_cut_3.mp4', 'data': []}
+Process video at edge videos/Batman_vs_Superman_Official_Teaser_Trailer_cut_3.mp4 with [238] seconds.
+receive info
+receive data
+res_info: {'res_length': 1327}
+res: {'video_path: ': 'recv/videos/Batman_vs_Superman_Official_Trailer_cut_2.mp4', 'data': [(240, ['Ben Affleck (Batman)']), (619, ['Ben Affleck (Batman)']), (624, ['Ben Affleck (Batman)']), (625, ['Ben Affleck (Batman)']), (626, ['Ben Affleck (Batman)']), (627, ['Ben Affleck (Batman)']), (631, ['Ben Affleck (Batman)']), (632, ['Ben Affleck (Batman)']), (633, ['Ben Affleck (Batman)']), (634, ['Ben Affleck (Batman)']), (635, ['Ben Affleck (Batman)']), (700, ['Ben Affleck (Batman)']), (701, ['Ben Affleck (Batman)']), (702, ['Ben Affleck (Batman)']), (703, ['Ben Affleck (Batman)']), (704, ['Ben Affleck (Batman)']), (705, ['Ben Affleck (Batman)']), (706, ['Ben Affleck (Batman)']), (707, ['Ben Affleck (Batman)']), (708, ['Ben Affleck (Batman)']), (709, ['Ben Affleck (Batman)']), (710, ['Ben Affleck (Batman)']), (711, ['Ben Affleck (Batman)']), (712, ['Ben Affleck (Batman)']), (713, ['Ben Affleck (Batman)']), (714, ['Ben Affleck (Batman)']), (715, ['Ben Affleck (Batman)']), (716, ['Ben Affleck (Batman)']), (717, ['Ben Affleck (Batman)']), (718, ['Ben Affleck (Batman)']), (719, ['Ben Affleck (Batman)']), (720, ['Ben Affleck (Batman)']), (721, ['Ben Affleck (Batman)'])]}
+Process video at edge videos/Batman_vs_Superman_Official_Trailer_cut_2.mp4 with [349] seconds.
+receive info
+receive data
+res_info: {'res_length': 153}
+res: {'video_path: ': 'recv/videos/Batman_vs_Superman_Official_Teaser_Trailer_cut_1.mp4', 'data': [(560, ['Henry Cavill (Superman)'])]}
+Process video at edge videos/Batman_vs_Superman_Official_Teaser_Trailer_cut_1.mp4 with [364] seconds.
+receive info
+receive data
+res_info: {'res_length': 112}
+res: {'video_path: ': 'recv/videos/Batman_vs_Superman_Official_Teaser_Trailer_cut_2.mp4', 'data': []}
+Process video at edge videos/Batman_vs_Superman_Official_Teaser_Trailer_cut_2.mp4 with [368] seconds.
+receive info
+receive data
+res_info: {'res_length': 295}
+res: {'video_path: ': 'recv/videos/Batman_vs_Superman_Official_Trailer_cut_1.mp4', 'data': [(359, ['Ben Affleck (Batman)']), (555, ['Henry Cavill (Superman)']), (581, ['Ben Affleck (Batman)']), (582, ['Ben Affleck (Batman)']), (583, ['Ben Affleck (Batman)'])]}
+Process video at edge videos/Batman_vs_Superman_Official_Trailer_cut_1.mp4 with [452] seconds.
+receive info
+receive data
+res_info: {'res_length': 105}
+res: {'video_path: ': 'recv/videos/Batman_vs_Superman_Official_Trailer_cut_4.mp4', 'data': []}
+Process video at edge videos/Batman_vs_Superman_Official_Trailer_cut_4.mp4 with [524] seconds.
+receive info
+receive data
+res_info: {'res_length': 103}
+res: {'video_path: ': 'recv/videos/Justice_League_Official_Trailer_1_cut_2.mp4', 'data': []}
+Process video at edge videos/Justice_League_Official_Trailer_1_cut_2.mp4 with [585] seconds.
+receive info
+receive data
+res_info: {'res_length': 2195}
+res: {'video_path: ': 'recv/videos/Batman_vs_Superman_Official_Trailer_cut_3.mp4', 'data': [(1, ['Ben Affleck (Batman)']), (7, ['Ben Affleck (Batman)']), (8, ['Ben Affleck (Batman)']), (9, ['Ben Affleck (Batman)']), (10, ['Ben Affleck (Batman)']), (11, ['Ben Affleck (Batman)']), (12, ['Ben Affleck (Batman)']), (13, ['Ben Affleck (Batman)']), (14, ['Ben Affleck (Batman)']), (15, ['Ben Affleck (Batman)']), (16, ['Ben Affleck (Batman)']), (17, ['Ben Affleck (Batman)']), (18, ['Ben Affleck (Batman)']), (19, ['Ben Affleck (Batman)']), (20, ['Ben Affleck (Batman)']), (21, ['Ben Affleck (Batman)']), (22, ['Ben Affleck (Batman)']), (23, ['Ben Affleck (Batman)']), (24, ['Ben Affleck (Batman)']), (25, ['Ben Affleck (Batman)']), (26, ['Ben Affleck (Batman)']), (27, ['Ben Affleck (Batman)']), (28, ['Ben Affleck (Batman)']), (29, ['Ben Affleck (Batman)']), (30, ['Ben Affleck (Batman)']), (31, ['Ben Affleck (Batman)']), (32, ['Ben Affleck (Batman)']), (33, ['Ben Affleck (Batman)']), (34, ['Ben Affleck (Batman)']), (35, ['Ben Affleck (Batman)']), (36, ['Ben Affleck (Batman)']), (37, ['Ben Affleck (Batman)']), (38, ['Ben Affleck (Batman)']), (39, ['Ben Affleck (Batman)']), (40, ['Ben Affleck (Batman)']), (41, ['Ben Affleck (Batman)']), (93, ['Ben Affleck (Batman)']), (94, ['Ben Affleck (Batman)']), (95, ['Ben Affleck (Batman)']), (96, ['Ben Affleck (Batman)']), (97, ['Ben Affleck (Batman)']), (98, ['Ben Affleck (Batman)']), (99, ['Ben Affleck (Batman)']), (100, ['Ben Affleck (Batman)']), (101, ['Ben Affleck (Batman)']), (102, ['Ben Affleck (Batman)']), (103, ['Ben Affleck (Batman)']), (104, ['Ben Affleck (Batman)']), (105, ['Ben Affleck (Batman)']), (106, ['Ben Affleck (Batman)']), (107, ['Ben Affleck (Batman)']), (108, ['Ben Affleck (Batman)']), (109, ['Ben Affleck (Batman)']), (110, ['Ben Affleck (Batman)']), (111, ['Ben Affleck (Batman)']), (112, ['Ben Affleck (Batman)']), (113, ['Ben Affleck (Batman)']), (114, ['Ben Affleck (Batman)'])]}
+Process video at edge videos/Batman_vs_Superman_Official_Trailer_cut_3.mp4 with [588] seconds.
+receive info
+receive data
+res_info: {'res_length': 105}
+res: {'video_path: ': 'recv/videos/Batman_vs_Superman_Official_Trailer_cut_6.mp4', 'data': []}
+Process video at edge videos/Batman_vs_Superman_Official_Trailer_cut_6.mp4 with [600] seconds.
+receive info
+receive data
+res_info: {'res_length': 105}
+res: {'video_path: ': 'recv/videos/Batman_vs_Superman_Official_Trailer_cut_5.mp4', 'data': []}
+Process video at edge videos/Batman_vs_Superman_Official_Trailer_cut_5.mp4 with [626] seconds.
+receive info
+receive data
+res_info: {'res_length': 103}
+res: {'video_path: ': 'recv/videos/Justice_League_Official_Trailer_1_cut_4.mp4', 'data': []}
+Process video at edge videos/Justice_League_Official_Trailer_1_cut_4.mp4 with [662] seconds.
+receive info
+receive data
+res_info: {'res_length': 103}
+res: {'video_path: ': 'recv/videos/Justice_League_Official_Trailer_1_cut_1.mp4', 'data': []}
+Process video at edge videos/Justice_League_Official_Trailer_1_cut_1.mp4 with [722] seconds.
+receive info
+receive data
+res_info: {'res_length': 103}
+res: {'video_path: ': 'recv/videos/Justice_League_Official_Trailer_1_cut_5.mp4', 'data': []}
+Process video at edge videos/Justice_League_Official_Trailer_1_cut_5.mp4 with [791] seconds.
+receive info
+receive data
+res_info: {'res_length': 114}
+res: {'video_path: ': 'recv/videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_1.mp4', 'data': []}
+Process video at edge videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_1.mp4 with [832] seconds.
+receive info
+receive data
+res_info: {'res_length': 103}
+res: {'video_path: ': 'recv/videos/Justice_League_Official_Trailer_1_cut_3.mp4', 'data': []}
+Process video at edge videos/Justice_League_Official_Trailer_1_cut_3.mp4 with [839] seconds.
+receive info
+receive data
+res_info: {'res_length': 114}
+res: {'video_path: ': 'recv/videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_2.mp4', 'data': []}
+Process video at edge videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_2.mp4 with [939] seconds.
+receive info
+receive data
+res_info: {'res_length': 114}
+res: {'video_path: ': 'recv/videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_3.mp4', 'data': []}
+Process video at edge videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_3.mp4 with [1009] seconds.
+receive info
+receive data
+res_info: {'res_length': 114}
+res: {'video_path: ': 'recv/videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_4.mp4', 'data': []}
+Process video at edge videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_4.mp4 with [1010] seconds.
+res_info: {'res_length': 103}
+res: {'video_path: ': 'recv/videos/Zack_Snyder_Justice_League_Sneak_Peak_2.mp4', 'data': []}
+Process video at edge videos/Zack_Snyder_Justice_League_Sneak_Peak_2.mp4 with [1074] seconds.
+res_info: {'res_length': 5000}
+res: {'video_path: ': 'recv/videos/Zack_Snyder_Justice_League_Sneak_Peak.mp4', 'data': [(285, ['Gal Gadot (Wonder Woman)']), (286, ['Gal Gadot (Wonder Woman)']), (287, ['Gal Gadot (Wonder Woman)']), (288, ['Gal Gadot (Wonder Woman)']), (291, ['Gal Gadot (Wonder Woman)']), (292, ['Gal Gadot (Wonder Woman)']), (334, ['Gal Gadot (Wonder Woman)']), (336, ['Gal Gadot (Wonder Woman)']), (337, ['Gal Gadot (Wonder Woman)']), (338, ['Gal Gadot (Wonder Woman)']), (339, ['Gal Gadot (Wonder Woman)']), (341, ['Gal Gadot (Wonder Woman)']), (342, ['Gal Gadot (Wonder Woman)']), (343, ['Gal Gadot (Wonder Woman)']), (344, ['Gal Gadot (Wonder Woman)']), (345, ['Gal Gadot (Wonder Woman)']), (346, ['Gal Gadot (Wonder Woman)']), (347, ['Gal Gadot (Wonder Woman)']), (348, ['Gal Gadot (Wonder Woman)']), (349, ['Gal Gadot (Wonder Woman)']), (350, ['Gal Gadot (Wonder Woman)']), (351, ['Gal Gadot (Wonder Woman)']), (352, ['Gal Gadot (Wonder Woman)']), (353, ['Gal Gadot (Wonder Woman)']), (354, ['Gal Gadot (Wonder Woman)']), (355, ['Gal Gadot (Wonder Woman)']), (356, ['Gal Gadot (Wonder Woman)']), (466, ['Gal Gadot (Wonder Woman)']), (467, ['Gal Gadot (Wonder Woman)']), (468, ['Gal Gadot (Wonder Woman)']), (469, ['Gal Gadot (Wonder Woman)']), (470, ['Gal Gadot (Wonder Woman)']), (471, ['Gal Gadot (Wonder Woman)']), (472, ['Gal Gadot (Wonder Woman)']), (473, ['Gal Gadot (Wonder Woman)']), (474, ['Gal Gadot (Wonder Woman)']), (475, ['Gal Gadot (Wonder Woman)']), (476, ['Gal Gadot (Wonder Woman)']), (477, ['Gal Gadot (Wonder Woman)']), (478, ['Gal Gadot (Wonder Woman)']), (479, ['Gal Gadot (Wonder Woman)']), (480, ['Gal Gadot (Wonder Woman)']), (481, ['Gal Gadot (Wonder Woman)']), (482, ['Gal Gadot (Wonder Woman)']), (483, ['Gal Gadot (Wonder Woman)']), (484, ['Gal Gadot (Wonder Woman)']), (485, ['Gal Gadot (Wonder Woman)']), (486, ['Gal Gadot (Wonder Woman)']), (487, ['Gal Gadot (Wonder Woman)']), (488, ['Gal Gadot (Wonder Woman)']), (489, ['Gal Gadot (Wonder Woman)']), (490, ['Gal Gadot (Wonder Woman)']), (491, ['Gal Gadot (Wonder Woman)']), (492, ['Gal Gadot (Wonder Woman)']), (493, ['Gal Gadot (Wonder Woman)']), (494, ['Gal Gadot (Wonder Woman)']), (495, ['Gal Gadot (Wonder Woman)']), (496, ['Gal Gadot (Wonder Woman)']), (497, ['Gal Gadot (Wonder Woman)']), (498, ['Gal Gadot (Wonder Woman)']), (499, ['Gal Gadot (Wonder Woman)']), (500, ['Gal Gadot (Wonder Woman)']), (501, ['Gal Gadot (Wonder Woman)']), (502, ['Gal Gadot (Wonder Woman)']), (503, ['Gal Gadot (Wonder Woman)']), (504, ['Gal Gadot (Wonder Woman)']), (505, ['Gal Gadot (Wonder Woman)']), (506, ['Gal Gadot (Wonder Woman)']), (507, ['Gal Gadot (Wonder Woman)']), (508, ['Gal Gadot (Wonder Woman)']), (509, ['Gal Gadot (Wonder Woman)']), (510, ['Gal Gadot (Wonder Woman)']), (511, ['Gal Gadot (Wonder Woman)']), (512, ['Gal Gadot (Wonder Woman)']), (513, ['Gal Gadot (Wonder Woman)']), (514, ['Gal Gadot (Wonder Woman)']), (515, ['Gal Gadot (Wonder Woman)']), (516, ['Gal Gadot (Wonder Woman)']), (517, ['Gal Gadot (Wonder Woman)']), (518, ['Gal Gadot (Wonder Woman)']), (519, ['Gal Gadot (Wonder Woman)']), (520, ['Gal Gadot (Wonder Woman)']), (521, ['Gal Gadot (Wonder Woman)']), (522, ['Gal Gadot (Wonder Woman)']), (523, ['Gal Gadot (Wonder Woman)']), (524, ['Gal Gadot (Wonder Woman)']), (525, ['Gal Gadot (Wonder Woman)']), (526, ['Gal Gadot (Wonder Woman)']), (527, ['Gal Gadot (Wonder Woman)']), (528, ['Gal Gadot (Wonder Woman)']), (529, ['Gal Gadot (Wonder Woman)']), (530, ['Gal Gadot (Wonder Woman)']), (531, ['Gal Gadot (Wonder Woman)']), (532, ['Gal Gadot (Wonder Woman)']), (533, ['Gal Gadot (Wonder Woman)']), (534, ['Gal Gadot (Wonder Woman)']), (535, ['Gal Gadot (Wonder Woman)']), (536, ['Gal Gadot (Wonder Woman)']), (537, ['Gal Gadot (Wonder Woman)']), (538, ['Gal Gadot (Wonder Woman)']), (539, ['Gal Gadot (Wonder Woman)']), (540, ['Gal Gadot (Wonder Woman)']), (541, ['Gal Gadot (Wonder Woman)']), (542, ['Gal Gadot (Wonder Woman)']), (543, ['Gal Gadot (Wonder Woman)']), (544, ['Gal Gadot (Wonder Woman)']), (545, ['Gal Gadot (Wonder Woman)']), (546, ['Gal Gadot (Wonder Woman)']), (547, ['Gal Gadot (Wonder Woman)']), (548, ['Gal Gadot (Wonder Woman)']), (549, ['Gal Gadot (Wonder Woman)']), (550, ['Gal Gadot (Wonder Woman)']), (551, ['Gal Gadot (Wonder Woman)'])]}
+Process video at edge videos/Zack_Snyder_Justice_League_Sneak_Peak.mp4 with [1121] seconds.
+res_info: {'res_length': 103}
+res: {'video_path: ': 'recv/videos/Zack_Snyder_Justice_League_Sneak_Peak_3.mp4', 'data': []}
+Process video at edge videos/Zack_Snyder_Justice_League_Sneak_Peak_3.mp4 with [1136] seconds.
+res_info: {'res_length': 227}
+res: {'video_path: ': 'recv/videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_5.mp4', 'data': [(566, ['Ben Affleck (Batman)']), (568, ['Ben Affleck (Batman)']), (576, ['Ben Affleck (Batman)'])]}
+Process video at edge videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_5.mp4 with [1163] seconds.
+res_info: {'res_length': 480}
+res: {'video_path: ': 'recv/videos/Zack_Snyder_Justice_League_Official_Teaser_1.mp4', 'data': [(3333, ['Ben Affleck (Batman)']), (3343, ['Ben Affleck (Batman)']), (3348, ['Ben Affleck (Batman)']), (3350, ['Ben Affleck (Batman)']), (3358, ['Ben Affleck (Batman)']), (3359, ['Ben Affleck (Batman)']), (3446, ['Ben Affleck (Batman)']), (3448, ['Ben Affleck (Batman)']), (3449, ['Ben Affleck (Batman)']), (3450, ['Ben Affleck (Batman)'])]}
+Process video at edge videos/Zack_Snyder_Justice_League_Official_Teaser_1.mp4 with [1644] seconds.
+Complete all tasks with 1644 seconds.
+
+Process finished with exit code 0

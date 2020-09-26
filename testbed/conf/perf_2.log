@@ -1,0 +1,342 @@
+videos/Batman_vs_Superman_Official_Teaser_Trailer_cut_1.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     740079.525178      task-clock:u (msec)       #    2.000 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+         1,288,467      page-faults:u             #    0.002 M/sec
+   820,520,109,458      cycles:u                  #    1.109 GHz
+   618,726,292,842      instructions:u            #    0.75  insn per cycle
+    35,425,553,749      branches:u                #   47.867 M/sec
+     4,220,506,697      branch-misses:u           #   11.91% of all branches
+
+     369.999696230 seconds time elapsed
+
+
+videos/Batman_vs_Superman_Official_Teaser_Trailer_cut_2.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     790867.421784      task-clock:u (msec)       #    2.190 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+         1,094,317      page-faults:u             #    0.001 M/sec
+   884,675,584,212      cycles:u                  #    1.119 GHz
+   643,627,215,659      instructions:u            #    0.73  insn per cycle
+    37,017,819,407      branches:u                #   46.807 M/sec
+     4,797,008,513      branch-misses:u           #   12.96% of all branches
+
+     361.194726393 seconds time elapsed
+
+
+videos/Batman_vs_Superman_Official_Teaser_Trailer_cut_3.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     536766.624149      task-clock:u (msec)       #    2.314 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+           509,047      page-faults:u             #    0.948 K/sec
+   590,025,790,397      cycles:u                  #    1.099 GHz
+   428,950,518,230      instructions:u            #    0.73  insn per cycle
+    26,742,604,867      branches:u                #   49.822 M/sec
+     2,760,708,680      branch-misses:u           #   10.32% of all branches
+
+     232.007223668 seconds time elapsed
+
+
+videos/Batman_vs_Superman_Official_Trailer_cut_1.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     763686.563769      task-clock:u (msec)       #    1.822 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+         1,714,882      page-faults:u             #    0.002 M/sec
+   856,178,929,241      cycles:u                  #    1.121 GHz
+   655,318,790,085      instructions:u            #    0.77  insn per cycle
+    35,635,684,854      branches:u                #   46.663 M/sec
+     4,545,095,825      branch-misses:u           #   12.75% of all branches
+
+     419.242210087 seconds time elapsed
+
+
+videos/Batman_vs_Superman_Official_Trailer_cut_2.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     701584.027087      task-clock:u (msec)       #    2.024 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+         1,236,546      page-faults:u             #    0.002 M/sec
+   787,952,385,942      cycles:u                  #    1.123 GHz
+   581,206,671,899      instructions:u            #    0.74  insn per cycle
+    32,484,684,493      branches:u                #   46.302 M/sec
+     4,222,843,851      branch-misses:u           #   13.00% of all branches
+
+     346.604759395 seconds time elapsed
+
+videos/Batman_vs_Superman_Official_Trailer_cut_3.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     894035.934047      task-clock:u (msec)       #    1.757 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+         2,219,456      page-faults:u             #    0.002 M/sec
+ 1,004,022,999,496      cycles:u                  #    1.123 GHz
+   773,307,945,199      instructions:u            #    0.77  insn per cycle
+    41,138,100,571      branches:u                #   46.014 M/sec
+     5,426,448,705      branch-misses:u           #   13.19% of all branches
+
+     508.806062746 seconds time elapsed
+
+videos/Batman_vs_Superman_Official_Trailer_cut_4.mp4
+Processing time 276.4222855567932 for Batman_vs_Superman_Official_Trailer_cut_4.mp4
+
+ Performance counter stats for 'python3 test3.py':
+
+     618492.240638      task-clock:u (msec)       #    2.097 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+           949,800      page-faults:u             #    0.002 M/sec
+   691,569,593,993      cycles:u                  #    1.118 GHz
+   500,973,466,150      instructions:u            #    0.72  insn per cycle
+    28,777,067,468      branches:u                #   46.528 M/sec
+     3,586,751,837      branch-misses:u           #   12.46% of all branches
+
+     294.910175355 seconds time elapsed
+
+videos/Batman_vs_Superman_Official_Trailer_cut_5.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     634742.153511      task-clock:u (msec)       #    2.077 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+         1,019,666      page-faults:u             #    0.002 M/sec
+   711,304,265,971      cycles:u                  #    1.121 GHz
+   521,079,890,132      instructions:u            #    0.73  insn per cycle
+    29,647,584,471      branches:u                #   46.708 M/sec
+     3,790,708,969      branch-misses:u           #   12.79% of all branches
+
+     305.554626782 seconds time elapsed
+
+videos/Batman_vs_Superman_Official_Trailer_cut_6.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     573616.693586      task-clock:u (msec)       #    2.064 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+           899,242      page-faults:u             #    0.002 M/sec
+   639,458,623,512      cycles:u                  #    1.115 GHz
+   469,537,858,492      instructions:u            #    0.73  insn per cycle
+    27,150,716,623      branches:u                #   47.333 M/sec
+     3,259,730,297      branch-misses:u           #   12.01% of all branches
+
+     277.859170075 seconds time elapsed
+
+
+videos/Justice_League_Official_Trailer_1_cut_1.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     402459.225488      task-clock:u (msec)       #    2.297 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+           379,482      page-faults:u             #    0.943 K/sec
+   441,516,178,951      cycles:u                  #    1.097 GHz
+   317,865,630,021      instructions:u            #    0.72  insn per cycle
+    20,059,784,428      branches:u                #   49.843 M/sec
+     1,972,029,938      branch-misses:u           #    9.83% of all branches
+
+     175.213489024 seconds time elapsed
+
+videos/Justice_League_Official_Trailer_1_cut_2.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     552334.026956      task-clock:u (msec)       #    2.099 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+           811,990      page-faults:u             #    0.001 M/sec
+   614,780,461,489      cycles:u                  #    1.113 GHz
+   451,345,566,748      instructions:u            #    0.73  insn per cycle
+    26,388,136,582      branches:u                #   47.776 M/sec
+     3,154,616,684      branch-misses:u           #   11.95% of all branches
+
+     263.180357991 seconds time elapsed
+
+
+videos/Justice_League_Official_Trailer_1_cut_3.mp4
+Processing time 258.05617904663086 for Justice_League_Official_Trailer_1_cut_3.mp4
+
+ Performance counter stats for 'python3 test3.py':
+
+     547190.983837      task-clock:u (msec)       #    1.978 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+           941,828      page-faults:u             #    0.002 M/sec
+   606,982,462,210      cycles:u                  #    1.109 GHz
+   454,113,971,807      instructions:u            #    0.75  insn per cycle
+    26,419,043,710      branches:u                #   48.281 M/sec
+     2,992,715,048      branch-misses:u           #   11.33% of all branches
+
+     276.574147345 seconds time elapsed
+
+
+videos/Justice_League_Official_Trailer_1_cut_4.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     614375.408644      task-clock:u (msec)       #    2.145 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+           870,512      page-faults:u             #    0.001 M/sec
+   687,437,665,601      cycles:u                  #    1.119 GHz
+   501,704,520,439      instructions:u            #    0.73  insn per cycle
+    28,870,297,319      branches:u                #   46.991 M/sec
+     3,744,452,183      branch-misses:u           #   12.97% of all branches
+
+     286.363101224 seconds time elapsed
+
+videos/Justice_League_Official_Trailer_1_cut_5.mp4
+Processing time 189.12011194229126 for Justice_League_Official_Trailer_1_cut_5.mp4
+
+ Performance counter stats for 'python3 test3.py':
+
+     519187.760646      task-clock:u (msec)       #    2.502 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+           374,493      page-faults:u             #    0.721 K/sec
+   578,104,190,971      cycles:u                  #    1.113 GHz
+   406,760,784,071      instructions:u            #    0.70  insn per cycle
+    24,825,230,727      branches:u                #   47.816 M/sec
+     3,109,777,742      branch-misses:u           #   12.53% of all branches
+
+     207.531379529 seconds time elapsed
+
+
+videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_1.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     485399.371896      task-clock:u (msec)       #    2.356 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+           456,941      page-faults:u             #    0.941 K/sec
+   539,242,078,474      cycles:u                  #    1.111 GHz
+   387,534,626,697      instructions:u            #    0.72  insn per cycle
+    23,406,512,692      branches:u                #   48.221 M/sec
+     2,891,729,253      branch-misses:u           #   12.35% of all branches
+
+     206.025310144 seconds time elapsed
+
+
+videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_2.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     739065.383728      task-clock:u (msec)       #    2.204 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+         1,019,522      page-faults:u             #    0.001 M/sec
+   833,930,983,890      cycles:u                  #    1.128 GHz
+   602,508,989,139      instructions:u            #    0.72  insn per cycle
+    33,747,131,314      branches:u                #   45.662 M/sec
+     4,999,330,276      branch-misses:u           #   14.81% of all branches
+
+     335.307996939 seconds time elapsed
+
+
+videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_3.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     699812.910689      task-clock:u (msec)       #    2.128 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+         1,062,199      page-faults:u             #    0.002 M/sec
+   785,884,760,831      cycles:u                  #    1.123 GHz
+   570,728,698,854      instructions:u            #    0.73  insn per cycle
+    32,120,292,062      branches:u                #   45.898 M/sec
+     4,467,357,505      branch-misses:u           #   13.91% of all branches
+
+     328.929458979 seconds time elapsed
+
+videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_4.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     622913.017884      task-clock:u (msec)       #    2.418 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+           604,964      page-faults:u             #    0.971 K/sec
+   700,178,968,226      cycles:u                  #    1.124 GHz
+   489,827,794,141      instructions:u            #    0.70  insn per cycle
+    28,475,742,897      branches:u                #   45.714 M/sec
+     4,020,644,051      branch-misses:u           #   14.12% of all branches
+
+     257.600097763 seconds time elapsed
+
+
+
+videos/Zack_Snyder_Justice_League_Official_Teaser_1_cut_5.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     576289.219790      task-clock:u (msec)       #    1.855 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+         1,172,818      page-faults:u             #    0.002 M/sec
+   638,594,632,774      cycles:u                  #    1.108 GHz
+   487,680,417,233      instructions:u            #    0.76  insn per cycle
+    27,771,588,863      branches:u                #   48.190 M/sec
+     3,181,385,628      branch-misses:u           #   11.46% of all branches
+
+     310.714792023 seconds time elapsed
+
+videos/Zack_Snyder_Justice_League_Official_Teaser_1.mp4
+ Performance counter stats for 'python3 test3.py':
+
+    3117401.869296      task-clock:u (msec)       #    2.224 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+         4,210,695      page-faults:u             #    0.001 M/sec
+ 3,482,662,434,660      cycles:u                  #    1.117 GHz
+ 2,529,825,338,828      instructions:u            #    0.73  insn per cycle
+   143,001,311,285      branches:u                #   45.872 M/sec
+    19,468,616,749      branch-misses:u           #   13.61% of all branches
+
+    1401.698361597 seconds time elapsed
+
+videos/Zack_Snyder_Justice_League_Sneak_Peak_2.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     297436.657611      task-clock:u (msec)       #    2.306 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+           250,876      page-faults:u             #    0.843 K/sec
+   326,454,109,285      cycles:u                  #    1.098 GHz
+   238,072,371,737      instructions:u            #    0.73  insn per cycle
+    15,152,998,403      branches:u                #   50.945 M/sec
+     1,574,236,646      branch-misses:u           #   10.39% of all branches
+
+     128.973246779 seconds time elapsed
+
+videos/Zack_Snyder_Justice_League_Sneak_Peak_3.mp4
+Processing time 150.41250348091125 for Zack_Snyder_Justice_League_Sneak_Peak_3.mp4
+
+ Performance counter stats for 'python3 test3.py':
+
+     422852.324209      task-clock:u (msec)       #    2.504 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+           157,714      page-faults:u             #    0.373 K/sec
+   479,566,342,433      cycles:u                  #    1.134 GHz
+   249,638,985,977      instructions:u            #    0.52  insn per cycle
+    15,709,653,434      branches:u                #   37.152 M/sec
+     1,748,657,647      branch-misses:u           #   11.13% of all branches
+
+     168.878848951 seconds time elapsed
+
+videos/Zack_Snyder_Justice_League_Sneak_Peak.mp4
+ Performance counter stats for 'python3 test3.py':
+
+     469075.262115      task-clock:u (msec)       #    1.714 CPUs utilized
+                 0      context-switches:u        #    0.000 K/sec
+                 0      cpu-migrations:u          #    0.000 K/sec
+         1,032,601      page-faults:u             #    0.002 M/sec
+   513,402,150,259      cycles:u                  #    1.094 GHz
+   403,857,553,437      instructions:u            #    0.79  insn per cycle
+    23,202,425,665      branches:u                #   49.464 M/sec
+     2,375,898,886      branch-misses:u           #   10.24% of all branches
+
+     273.597173518 seconds time elapsed
+
