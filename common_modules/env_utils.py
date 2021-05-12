@@ -98,9 +98,9 @@ def get_transmit_power(uid, pos, args):
 def get_rate(uid, pos, power_tr, args, action, n_users):
     power_i = 0
     for n_user in range(n_users):
-        if int((action[n_user * 2 + 1] + 1) * 2.5) != int((action[uid * 2 + 1] + 1) * 2.5):
+        if int((action[n_user * 2 + 1] + 1) * 2.5) == int((action[uid * 2 + 1] + 1) * 2.5):
             power_i += get_transmit_power(n_user, pos, args)
-            power_i = 0
+            # power_i = 0 # for Raspberry pi
     snr = power_tr / (power_i + args.noise)
     return args.c_band * math.log2(1 + snr) /8/1024
 
